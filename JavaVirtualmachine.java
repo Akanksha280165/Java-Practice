@@ -4,7 +4,7 @@ public class JavaVirtualmachine
 {
 	public static void main(String[] args)
 	{ 
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		System.out.println("what is JDK in java? "); 
 		String s1=sc.nextLine();
 		System.out.println("what is JRE in java? ");
@@ -20,5 +20,6 @@ public class JavaVirtualmachine
 		
 	}
 }
+
 
 
