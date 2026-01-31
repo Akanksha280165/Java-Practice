@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class JavaVirtualmachine
 {
 	public static void main(String[] args)
-	{
+	{ 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("what is JDK in java? "); 
 		String s1=sc.nextLine();
@@ -20,4 +20,5 @@ public class JavaVirtualmachine
 		
 	}
 }
+
 
